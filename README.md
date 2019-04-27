@@ -1,6 +1,7 @@
 # k8s-dashboard
 dashboard
 Kubernetes Dashboard
+you need to set up the k8s-dashnoard.
 Build Status Go Report Card Greenkeeper badge Coverage Status GitHub release License
 
 Kubernetes Dashboard is a general purpose, web-based UI for Kubernetes clusters. It allows users to manage applications running in the cluster and troubleshoot them, as well as manage the cluster itself.
