@@ -1,6 +1,4 @@
-# k8s-dashboard
-dashboard
-Kubernetes Dashboard
+# K8S-DASHBOARD
 You need to set up the k8s-dashnoard only.
 
 Kubernetes Dashboard is a general purpose, web-based UI for Kubernetes clusters. It allows users to manage applications running in the cluster and troubleshoot them, as well as manage the cluster itself.
